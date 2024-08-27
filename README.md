@@ -190,15 +190,15 @@
 
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
 
-a) Accurate Requirements Gathering: Clearly defining the problem helps in gathering precise and relevant requirements from stakeholders. This ensures that the software addresses the actual needs and challenges, leading to a more targeted and effective solution.
+      a) Accurate Requirements Gathering: Clearly defining the problem helps in gathering precise and relevant requirements from stakeholders. This ensures that the software addresses the actual needs and                 challenges, leading to a more targeted and effective solution.
 
-b) Focused Design and Development: Understanding the problem in detail guides the design and development process, allowing developers to create features and functionalities that directly address the identified issues. This focus prevents unnecessary complexity and scope creep.
+      b) Focused Design and Development: Understanding the problem in detail guides the design and development process, allowing developers to create features and functionalities that directly address the                 identified issues. This focus prevents unnecessary complexity and scope creep.
 
-c) Improved User Experience: A well-defined problem allows for a deeper understanding of user needs and pain points. This leads to a software solution that is user-centric, intuitive, and tailored to provide a better overall user experience.
+      c) Improved User Experience: A well-defined problem allows for a deeper understanding of user needs and pain points. This leads to a software solution that is user-centric, intuitive, and tailored to                provide a better overall user experience.
 
-d) Effective Resource Allocation: Knowing the specific problem helps in prioritizing tasks and allocating resources efficiently. It ensures that time, budget, and effort are directed towards solving the most critical issues rather than spending resources on less impactful features.
+      d) Effective Resource Allocation: Knowing the specific problem helps in prioritizing tasks and allocating resources efficiently. It ensures that time, budget, and effort are directed towards solving the             most critical issues rather than spending resources on less impactful features.
 
-e)Enhanced Risk Management: Clearly defining the problem helps in identifying potential risks and challenges early in the development process. This allows for proactive risk management strategies and mitigates the chances of project failure or costly changes later on.
+      e) Enhanced Risk Management: Clearly defining the problem helps in identifying potential risks and challenges early in the development process. This allows for proactive risk management strategies and               mitigates the chances of project failure or costly changes later on.
 
 
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
